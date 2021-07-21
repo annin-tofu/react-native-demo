@@ -21,3 +21,7 @@ React Native Funcional Component Empty StyleSheet
 # Margin vs Padding (CSS)
 
 1:17
+
+# 1:25 ish
+
+# iphone notch is called "Safe Area"

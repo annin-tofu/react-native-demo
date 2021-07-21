@@ -21,8 +21,13 @@ export default Product;
 
 const styles = StyleSheet.create({
   container: {
+    display: "flex",
+    // ## React-Native uses Column (flex) by default unlike React
+    flexDirection: "row",
+    justifyContent: "space-between",
     borderWidth: 1,
     margin: 10,
     padding: 20,
+    width: "80%",
   },
 });
