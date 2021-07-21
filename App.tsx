@@ -1,6 +1,7 @@
 import { StatusBar } from "expo-status-bar";
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
+import Product from "./components/Product";
 
 export default function App() {
   const name = "Yuya"; //Weakly Typed Language (TypeScript)
@@ -10,12 +11,8 @@ export default function App() {
       <Text>Hello World!</Text>
       <StatusBar style="auto" />
 
-      {/* Product */}
-      {/* Product */}
-      {/* Product */}
-      {/* Product */}
-      {/* Product */}
-      {/* Product */}
+      <Product title="iPad" amount={1000} />
+      <Product title="iPad Pro" amount={2000} />
     </View>
   );
 }

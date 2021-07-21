@@ -14,4 +14,10 @@ const name = "Yuya"; //Weakly Typed Language (TypeScript)
 
 ### ? For “optional” in props
 
-#
+# \_rnfes
+
+React Native Funcional Component Empty StyleSheet
+
+# Margin vs Padding (CSS)
+
+1:17
